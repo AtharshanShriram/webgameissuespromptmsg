@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 
@@ -417,6 +416,13 @@
 
     <h5 id="heading" style="font-weight:bold"> Please choose the User ID Guide below. </h5>
 
+
+
+    <button type="button" onclick="legends()" class="right primary-btn col-xs-11 text-left">
+        <img src="https://cdn.yellowmessenger.com/FuXxevambEXI1621263064445.png" alt="Place Holder" /><span> Mobile
+            Legends</span>
+
+    </button>
 
     <button type="button" onclick="lol()" class="left primary-btn col-xs-11 text-left">
         <img src="https://cdn.yellowmessenger.com/k75fkGNBKTdc1624594338568.jpg" alt="Place Holder" /><span>League of
